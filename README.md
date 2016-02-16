@@ -52,7 +52,7 @@ Comparison
 
 ![image](images/Mobile5.png)
 
-* #####Now create a styleguide for your app.
+#####Now create a styleguide for your app.
 	* Feel free to use [Frontify](https://brand.frontify.com/d/qAiubNBytHKf/style-guide) to help organize it.  
 	*  It must include:
 		* Typography
@@ -61,11 +61,11 @@ Comparison
 		* Composition
 		* Visual hierarchy
 		* Color choices
-* #####Now that you have your wireframes and styleguide, build the app to spec. You don't need content in each section, but you must indentify what each section represents.
+#####Now that you have your wireframes and styleguide, build the app to spec. You don't need content in each section, but you must indentify what each section represents.
 	* Keep in mind that it must be responsive @ 2 break points 
 	* You can use [this site](http://mattkersley.com/responsive/) to check your work once it is deployed. 
 
-* #####You should have these pieces by now:
+#####You should have these pieces by now:
 	* Wireframes
 	* Styleguide with link
 	* Deployed App
