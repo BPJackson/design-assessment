@@ -40,7 +40,7 @@ Comparison
 
 ![image](images/Wireframe5.png)
 
-* #####Create 5 more wireframes that show the mobile view for each of the pages described above. Again, they should look similar to the wireframes provided.
+#####Create 5 more wireframes that show the mobile view for each of the pages described above. Again, they should look similar to the wireframes provided.
 
 ![image](images/Mobile1.png)
 
