@@ -22,7 +22,7 @@
 
 Homepage 
 
-![Homepage](images/Wireframe1.png)
+![image](images/Wireframe1.png)
 
 Guided Entry  
 	
@@ -48,7 +48,7 @@ Comparison
 
 ![image](images/Mobile3.png)
 
-![image](iamges/Mobile4.png)
+![image](images/Mobile4.png)
 
 ![image](images/Mobile5.png)
 
