@@ -22,35 +22,35 @@
 
 Homepage 
 
-![Homepage](Wireframe1.png)
+![Homepage](images/Wireframe1.png)
 
 Guided Entry  
 	
-![image](Wireframe2.png)
+![image](images/Wireframe2.png)
 
 Promo Entry 
 	
-![image](Wireframe3.png)
+![image](images/Wireframe3.png)
 	
 Product Detail  
 
-![image](Wireframe4.png)
+![image](images/Wireframe4.png)
 
 Comparison  
 
-![image](Wireframe5.png)
+![image](images/Wireframe5.png)
 
 * #####Create 5 more wireframes that show the mobile view for each of the pages described above. Again, they should look similar to the wireframes provided.
 
-![image](Mobile1.png)
+![image](imagse/Mobile1.png)
 
-![image](Mobile2.png)
+![image](images/Mobile2.png)
 
-![image](Mobile3.png)
+![image](images/Mobile3.png)
 
-![image](Mobile4.png)
+![image](iamges/Mobile4.png)
 
-![image](Mobile5.png)
+![image](images/Mobile5.png)
 
 * #####Now create a styleguide for your app.
 	* Feel free to use [Frontify](https://brand.frontify.com/d/qAiubNBytHKf/style-guide) to help organize it.  
