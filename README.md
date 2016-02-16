@@ -17,7 +17,7 @@
 		
 ###Instructions:
 
-1.  Create 5 wireframes that detail the different pages of a site. 
+* Create 5 wireframes that detail the different pages of a site. 
 	*  They should look similar to the wireframes provided. Use a system to differentiate the content sections(1,2,3 or A,B,C)
 
 Homepage 
@@ -53,22 +53,22 @@ Comparison
 ![image](images/Mobile5.png)
 
 #####Now create a styleguide for your app.
-	* Feel free to use [Frontify](https://brand.frontify.com/d/qAiubNBytHKf/style-guide) to help organize it.  
-	*  It must include:
-		* Typography
-		* Audience
-		* Proportions
-		* Composition
-		* Visual hierarchy
-		* Color choices
+* Feel free to use [Frontify](https://brand.frontify.com/d/qAiubNBytHKf/style-guide) to help organize it. It must include:
+* Typography
+* Audience
+* Proportions
+* Composition
+* Visual hierarchy
+* Color choices
+	
 #####Now that you have your wireframes and styleguide, build the app to spec. You don't need content in each section, but you must indentify what each section represents.
-	* Keep in mind that it must be responsive @ 2 break points 
-	* You can use [this site](http://mattkersley.com/responsive/) to check your work once it is deployed. 
+* Keep in mind that it must be responsive @ 2 break points 
+* You can use [this site](http://mattkersley.com/responsive/) to check your work once it is deployed. 
 
 #####You should have these pieces by now:
-	* Wireframes
-	* Styleguide with link
-	* Deployed App
+* Wireframes
+* Styleguide with link
+* Deployed App
 
 
 
