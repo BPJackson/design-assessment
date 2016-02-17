@@ -11,6 +11,7 @@
 
 ##Instructions:
 
+
 #####Create 5 wireframes for a desktop view that detail the different pages of a site.
 * They should look similar to the images in the wireframes folder. 
 * Use a system to differentiate the content sections(1,2,3 or A,B,C)
@@ -54,4 +55,9 @@
 * Screenshots of your app
 
 #####Complete the exercise in user-testing	
+
+
+#####Place links here:
+* Deployed app:
+* Styleguide:
 
