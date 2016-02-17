@@ -47,10 +47,11 @@
 * [This site](http://mattkersley.com/responsive/) is a pretty neat tool to check your work once it is deployed.
 * Once your app is built and deployed, take screenshots of it at each break point for each page. Replace the provided screenshots with your own and keep the names the same. 
 
-#####You should have these pieces by now:
+#####You should have four pieces by now:
 * Three sets of Wireframes
 * Styleguide with link
 * Deployed App
+* Screenshots of your app
 
-#####Complete the exercise in user-testing
+#####Complete the exercise in user-testing	
 
