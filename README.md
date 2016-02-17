@@ -17,8 +17,8 @@
 
 ###Instructions:
 
-* Create 5 wireframes that detail the different pages of a site.
-	*  They should look similar to the wireframes provided in the images folder. Use a system to differentiate the content sections(1,2,3 or A,B,C)
+#####Create 5 wireframes that detail the different pages of a site.
+* They should look similar to the wireframes provided in the images folder. Use a system to differentiate the content sections(1,2,3 or A,B,C)
 
 #####Create 5 more wireframes that show the mobile view for each of the pages described above. Again, they should look similar to the wireframes provided in the images folder.
 
