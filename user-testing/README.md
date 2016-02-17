@@ -1,5 +1,5 @@
 #Exercise
-* Find an app to test. If this app is done, use it. One that you've built or currently working on.
+* Find an app to test. If this app is done, use it. If not, find one that you've built or currently working on.
 * Find a user to test your app
 * Explain the purpose of the app without showing it
 * Explain a task(s) for the user to complete
