@@ -1,41 +1,53 @@
 
 #Design Assessment
 
-###Content Delivery:
-1. Two sets of wireframes
-2. Styleguide
-3. Responsive App
-
 ###Objectives:
-
-1.  Design has responsive components
-	* At least two break points
-	* Desktop and mobile views (mobile views are touch based)
+1.   Your design has responsive components
+	* Three break points
+	* Desktop and two mobile views (mobile views are touch based)
 	* Sensible feature parity in both desktop and mobile views
-2.  Create a styleguide
+2.  Create a complete styleguide
 3.  Design an application from content inventories using wireframes
 
-###Instructions:
+##Instructions:
 
-#####Create 5 wireframes that detail the different pages of a site.
-* They should look similar to the wireframes provided in the images folder. Use a system to differentiate the content sections(1,2,3 or A,B,C)
+#####Create 5 wireframes for a desktop view that detail the different pages of a site.
+* They should look similar to the images in the wireframes folder. 
+* Use a system to differentiate the content sections(1,2,3 or A,B,C)
+* At the minimum, you must include these content sections and place them in the appropiate place
+	* Logo
+	* 3 features
+	* 3 benefits
+	* Link to this page
+	* Title
+	* Link to other page
+	* Copyright info
+	* Tag line
+	* Nav bar
+	* Site index
+* Replace the provided images with your wireframes.
+	* Keep the naming convention that is provided ie. desktop1.jpg, tablet1.jpg, mobile1.jpg
 
-#####Create 5 more wireframes that show the mobile view for each of the pages described above. Again, they should look similar to the wireframes provided in the images folder.
+
+#####Create wireframes for the tablet and mobile views for each of the pages. 
+
 
 #####Now create a styleguide for your app.
-* Feel free to use [Frontify](https://brand.frontify.com/d/qAiubNBytHKf/style-guide) to help organize it. It must include:
-* Typography
-* Audience
-* Proportions
-* Composition
-* Visual hierarchy
-* Color choices
+* You must use [Frontify](https://brand.frontify.com/d/qAiubNBytHKf/style-guide) to help organize it. 
+* It must include:
+	* Typography
+	* Audience
+	* Proportions
+	* Composition
+	* Visual hierarchy
+	* Color choices
 
-#####Now that you have your wireframes and styleguide, build the app to spec. You don't need content in each section, but you must indentify what each section represents.
-* Keep in mind that it must be responsive @ 2 break points
-* You can use [this site](http://mattkersley.com/responsive/) to check your work once it is deployed.
+#####Now that you have your wireframes and styleguide, build the app to spec.
+* Keep in mind that it must be responsive @ 3 break points
+* [This site](http://mattkersley.com/responsive/) is a pretty neat tool to check your work once it is deployed.
+* Once your app is built and deployed, take screenshots of it at each break point. Replace the provided images with your own and keep the names the same. 
 
 #####You should have these pieces by now:
-* Wireframes
+* Three sets of Wireframes
 * Styleguide with link
 * Deployed App
