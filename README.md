@@ -51,3 +51,6 @@
 * Three sets of Wireframes
 * Styleguide with link
 * Deployed App
+
+#####Complete the exercise in user-testing
+
