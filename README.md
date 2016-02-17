@@ -45,7 +45,7 @@
 #####Now that you have your wireframes and styleguide, build the app to spec.
 * Keep in mind that it must be responsive @ 3 break points
 * [This site](http://mattkersley.com/responsive/) is a pretty neat tool to check your work once it is deployed.
-* Once your app is built and deployed, take screenshots of it at each break point. Replace the provided images with your own and keep the names the same. 
+* Once your app is built and deployed, take screenshots of it at each break point for each page. Replace the provided screenshots with your own and keep the names the same. 
 
 #####You should have these pieces by now:
 * Three sets of Wireframes

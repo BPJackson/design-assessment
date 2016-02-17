@@ -9,6 +9,7 @@
 * Fill out the markdown file with a summary of the User’s experience
 * Repeat steps 2-8 for two more users(at least 3)
 * Take a screenshot of your app where you are about to inject a new feature
+  * Replace before.jpg with your screenshot
 * Implement a new feature based on the feedback gathered
 * Take a screenshot of the new feature in your app
-* Replace all of the placeholder files/images with your own and make sure your file names match the convention that we have established
+  * Replace after.jpg with your screenshot
