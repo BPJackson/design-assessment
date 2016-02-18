@@ -1,4 +1,5 @@
 Desktop Screenshots
+
 ![image](ss-desktop1.jpg)
 
 ![image](ss-desktop2.jpg)
@@ -10,6 +11,7 @@ Desktop Screenshots
 ![image](ss-desktop5.jpg)
 
 Tablet Screenshots
+
 ![image](ss-tablet1.jpg)
 
 ![image](ss-tablet2.jpg)
