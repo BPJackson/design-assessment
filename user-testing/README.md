@@ -6,7 +6,7 @@
 * Provide your app and observe the user complete the task(s)
 * Once the task is finished, collect Feedback. Talk to the user, ask follow up questions.
 * Gain insight about your app and thank them for their time.
-* Fill out the markdown file with a summary of the User’s experience
+* Fill out the markdown area below with a summary of the user’s experience
 * Repeat steps 2-8 for two more users(at least 3)
 * Take a screenshot of your app where you are about to inject a new feature
   * Replace before.jpg with your screenshot
