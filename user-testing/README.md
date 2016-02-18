@@ -13,3 +13,32 @@
 * Implement a new feature based on the feedback gathered
 * Take a screenshot of the new feature in your app
   * Replace after.jpg with your screenshot
+  
+![image](before.jpg)
+
+![image](after.jpg)
+
+Notes:
+
+###User 1 Notes
+* -
+* -
+* -
+* -
+
+###User 2 Notes
+
+* -
+* -
+* -
+* -
+* -
+
+###User 3 Notes
+
+* -
+* -
+* -
+* -
+* -
+
