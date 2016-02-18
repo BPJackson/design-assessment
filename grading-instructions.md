@@ -1,6 +1,5 @@
 #Instructor Grading Checklist
 
-##How to grade this assessment
 Note: This should be as low cost as possible.
 
 Ideally an instructor is able to look at the images/screenshots and markdown files that the student has created and gauge the students execution and mastery of the material.
@@ -9,7 +8,7 @@ Ideally an instructor is able to look at the images/screenshots and markdown fil
 ####Check wireframes for:
 * Symantic placement of content
 * Use of all of the content sections
-	* If they used more properly, +1	
+	* If they properly used more, +1	
 * Proper alignment at each break point
 	* Maintaining content heiarchy @ each break point 
 
