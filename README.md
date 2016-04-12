@@ -11,29 +11,23 @@
 
 ##Instructions:
 
-#####Create 5 wireframes for a desktop view that detail the different pages of a site.
-* They should look similar to the images in the wireframes folder. 
+#####Create 3 wireframes for a website. 1 Desktop, 1 Tablet, and 1 Mobile
+* They should look similar to the wireframes [here](http://www.thismanslife.co.uk/projects/lab/responsivewireframes/)
+* [Here](http://www.lifeishao.com/rwdwire/) is a great tool to help create your wireframes quickly!
 * Use a system to differentiate the content sections(1,2,3 or A,B,C)
 * At the minimum, you must include these content sections and place them in the appropiate place
 	* Logo
 	* 3 features
-	* 3 benefits
 	* Link to this page
 	* Title
 	* Link to other page
-	* Copyright info
 	* Tag line
 	* Nav bar
-	* Site index
-* Replace the provided images with your wireframes.
-	* Keep the naming convention that is provided ie. desktop1.jpg, tablet1.jpg, mobile1.jpg
-
-
-#####Create wireframes for the tablet and mobile views for each of the pages. 
+	* Site index/Copywright/Contact
 
 
 #####Now create a styleguide for your app.
-* You must use [Frontify](https://brand.frontify.com/d/qAiubNBytHKf/style-guide) to help organize it. 
+* You must use [Frontify](https://brand.frontify.com/d/qAiubNBytHKf/style-guide) to help organize it.
 * It must include:
 	* Typography
 	* Audience
@@ -45,14 +39,10 @@
 #####Now that you have your wireframes and styleguide, build the app to spec.
 * Keep in mind that it must be responsive @ 3 break points
 * [This site](http://mattkersley.com/responsive/) is a pretty neat tool to check your work once it is deployed.
-* Once your app is built and deployed, take screenshots of it at each break point for each page. Replace the provided screenshots with your own and keep the names the same. 
 
 #####You should have four pieces by now:
-* Three sets of Wireframes
+* One set of Wireframes
 * Styleguide with link
 * Deployed App
-* Screenshots of your app
 
-#####Complete the exercise in user-testing	
-
-
+#####Complete the exercise in user-testing
