@@ -13,6 +13,7 @@
 
 #####Create 3 wireframes for a website. 1 Desktop, 1 Tablet, and 1 Mobile
 * They should look similar to the wireframes [here](http://www.thismanslife.co.uk/projects/lab/responsivewireframes/)
+	* There isn't a tablet view given so get creative and decide how it would look!
 * [Here](http://www.lifeishao.com/rwdwire/) is a great tool to help create your wireframes quickly!
 * Use a system to differentiate the content sections(1,2,3 or A,B,C)
 * At the minimum, you must include these content sections and place them in the appropiate place
